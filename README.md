@@ -1,6 +1,6 @@
 # cs-question
 
-## [design-pattern](#design-pattern)
-## [java](#design-pattern)
-## [operation-system](#design-pattern)
+## [design-pattern](https://github.com/KangWooJin/cs-question/tree/main/design-pattern)
+## [java](https://github.com/KangWooJin/cs-question/tree/main/java)
+## [operation-system](https://github.com/KangWooJin/cs-question/tree/main/operation-system)
 
