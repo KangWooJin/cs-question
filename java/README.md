@@ -17,3 +17,5 @@
 - https://johngrib.github.io/wiki/jvm-memory/
 - 공식
   - https://docs.oracle.com/en/java/javase/11/gctuning/introduction-garbage-collection-tuning.html#GUID-326EB4CF-8C8C-4267-8355-21AB04F0D304
+
+### for, stream 차이
